@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 551271200
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: drink
+      Dependencies: {}
+    Info_1:
+      Name: food
+      Dependencies: {}

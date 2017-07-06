@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1742955934
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e590195326b76c1c7a042bb992bf883
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/food/cake.png
+- Assets/Resources/food/donut.png
+- Assets/Resources/food/burger.png
+- Assets/Resources/food/apple.png
+Dependencies: []
